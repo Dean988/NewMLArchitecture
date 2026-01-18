@@ -153,7 +153,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-
-<p align="center">
-  <i>Crafted with ❤️ for the future of Machine Learning.</i>
-</p>
